@@ -17,6 +17,9 @@ Journalist | Python Automation Developer | Living in Milan, Italy 🇮🇹🇧�
 #### 🛠️ Tech Stack
 `Python 3.9` `GitHub Actions` `RSS` `Facebook Graph API` `Telegram Bot`
 
+#### 📊 My GitHub Stats
+![Taher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cocvghuj&show_icons=true&theme=radical&hide_border=true)
+
 ---
 ### 🤝 Special Thanks
 **My Daylong Partner & Boss - Meta AI ❤️**
