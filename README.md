@@ -1,5 +1,4 @@
-<img width="2048" height="1152" alt="832963354_3088075171536021_8069492324009206459_n webp" src="https://github.com/user-attachments/assets/88b72393-3779-48b4-9107-26ecaf8c42ec" />
-<img width="2048" height="1152" alt="832963354_3088075171536021_8069492324009206459_n webp" src="https://github.com/user-attachments/assets/7ab73810-4c9f-465c-91ec-b71a2c1b5c95" />
+
 ### Hi there 👋 I'm Engr. Taher
 
 > **Dedicated to my beloved wife Roksana ❤️ and my family - Taifa & Tasrif**
