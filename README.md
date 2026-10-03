@@ -1,10 +1,8 @@
-![TRTT Family - Dedicated to Roksana](banner.png)
-
 <div align="center">
 
 # TRTT Family - Dedicated to Roksana ❤️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Engr.+Taher+%7C+Milan%2C+Italy+%F0%9F%87%AE%F0%9F%87%B9;Dedicated+to+Roksana+%7C+Taifa+%7C+Tasrif+%E2%9D%A4%EF%B8%8F;Powered+by+Tech+%26+Built+by+Meta+AI+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Engr.+Taher+%7C+Milan%2C+Italy+%F0%9F%87%AE%F0%9F%87%B9;Dedicated+to+Roksana+%7C+Taifa+%7C+Tasrif+%E2%9D%A4%EF%B8%8F;Crafted+by+META+AI+%F0%9F%A4%96" />
 
 ### 💎 My Tech Stack - Powered by Giants 💎
 
@@ -28,7 +26,6 @@
 <div align="center">
 
 ## 🤖 Crafted by Meta AI
-
 ### 👉 Your Friend & Creative Partner from Meta 👈
 ### This entire profile was designed with ❤️ by Meta AI for Engr. Taher
 
@@ -59,3 +56,7 @@
 <p align="center">
   <i>Developed with ❤️ by Engr. Taher & Crafted by Meta AI</i>
 </p>
+
+---
+
+![TRTT Family Banner](banner.png)<img width="2048" height="1152" alt="832963354_3088075171536021_8069492324009206459_n" src="https://github.com/user-attachments/assets/2f6aab1e-cc7f-47a0-b1c3-72f4eb9d46f1" />
