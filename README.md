@@ -1,46 +1,54 @@
+<div align="center">
 
-<!-- Banner Image -->
+# TRTT Family - Dedicated to Roksana ❤️
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Powered+by+Tech+%F0%9F%9A%80;TRTT+NEWS+24+BD+%F0%9F%87%A7%F0%9F%87%A9;Engr.+Taher+%7C+Roksana+%7C+Taifa+%7C+Tasrif;Crafted+by+META+AI+%F0%9F%A4%96" />
+
+<br/>
+
+## 💎 My Tech Stack - Powered by Giants 💎
+
+[[Meta AI](https://img.shields.io/badge/Meta_AI-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com)
+[[Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
+[[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cocvghuj)
+[[Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)](https://make.com)
+[[Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com)
+
+</div>
+
+---
+
+<h1>Hi there 👋 I'm Engr. Taher</h1>
+
+<h3> Dedicated to my beloved wife Roksana ❤️ and my family - Taifa & Tasrif </h3>
+<h3> From Milan, Italy 🇮🇹 Building for Bangladesh 🇧🇩 </h3>
+
+---
+
+<div align="center">
+
+# 🤖 Crafted by Meta AI
+
+### 👉 Your Friend & Creative Partner from Meta 👈
+
+### This entire profile was designed with ❤️ by Meta AI for Engr. Taher
+
+[[Built with Meta AI](https://img.shields.io/badge/Built%20with-META%20AI-0668E1?style=for-the-badge&logo=meta&logoColor=white&labelColor=000000)](https://ai.meta.com)
+
+</div>
+
 <p align="center">
-  <img width="100%" alt="TRTT NEWS 24 BD Banner" src="https://github.com/user-attachments/assets/1d16868f-d926-4486-95cf-8089cab16f68">
+  <a href="mailto:taher.engr.milan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/393512345678"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://trttnews24bd.blogspot.com"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
 
-# 🚀 TRTT NEWS 24 BD | Automated News Platform
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-Automated-20232A?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Blogger-CMS-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger">
-  <img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=for-the-badge" alt="Status">
-</p>
-
 ---
 
-## 📌 About The Project
-**TRTT NEWS 24 BD** (`Trttnews24.blogspot.com`) হলো একটি সম্পূর্ণ স্বয়ংক্রিয় (Fully Automated) আধুনিক নিউজ প্ল্যাটফর্ম। আধুনিক প্রযুক্তির ছোঁয়ায় এবং গিটহাব ওয়ার্কফ্লো (GitHub Workflows) ও পাইথনের সাহায্যে এই প্রজেক্টটি পরিচালিত হয়, যা রিয়েল-টাইমে নিউজ ফিড প্রসেস করে ব্লগ সাইটে আপডেট প্রকাশ করে।
+## 🚀 TRTT NEWS 24 BD | Automated News Platform
 
----
+**TRTT NEWS 24 BD** (`trttnews24bd.blogspot.com`) হলো একটি সম্পূর্ণ স্বয়ংক্রিয় (Fully Automated) আধুনিক নিউজ বট।
 
-## ⚡ Key Features & Workflow
-* **🤖 Automated News Bot:** পাইথন স্ক্রিপ্ট এবং গিটহাব অ্যাকশনের মাধ্যমে সম্পূর্ণ স্বয়ংক্রিয়ভাবে নিউজ সংগ্রহ ও প্রসেস করা হয়।
-* **🌐 Modern UI & Layout:** ইয়াহু (Yahoo) এবং প্রথম আলোর আদলে তৈরি একটি ফাস্ট, মোবাইল-বান্ধব এবং ক্লিন ডিজাইন।
-* **📊 Optimized Categories:** জাতীয়, আন্তর্জাতিক, অর্থনীতি, প্রযুক্তি, খেলাধুলা ও বিনোদনের মতো সুনির্দিষ্ট ক্যাটাগরি ও লেবেল ভিত্তিক সাজানো মেনু।
-* **🔍 SEO & Google Publisher Ready:** গুগলের নীতিমালা এবং পাবলিশার রিকোয়ারমেন্ট শতভাগ মেনে তৈরি।
-
----
-
-## 🛠️ Tech Stack
-* **Core:** Python
-* **Automation:** GitHub Actions / Workflows
-* **Platform:** Google Blogger / Blogspot
-* **Styling:** HTML5, CSS3, FontAwesome
-
----
-
-## 🌐 Live Website
- ভিজিট করুন: [TRTT NEWS 24 BD](https://trttnews24bd.blogspot.com)
-
----
-<p align="center">
-  <i>Developed with ❤️ for Automated News Publishing.</i>
-</p>
+### ✨ Key
+<img width="2048" height="1152" alt="banner" src="https://github.com/user-attachments/assets/8c74b419-b713-4cb6-89e7-e3c289ab86c7" />
 
