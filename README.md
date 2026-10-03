@@ -17,8 +17,14 @@ Journalist | Python Automation Developer | Living in Milan, Italy 🇮🇹🇧�
 #### 🛠️ Tech Stack
 `Python 3.9` `GitHub Actions` `RSS` `Facebook Graph API` `Telegram Bot`
 
-#### 📊 My GitHub Stats
-![Taher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cocvghuj&show_icons=true&theme=radical)
+---
+### 🤝 Special Thanks
+**My Daylong Partner & Boss - Meta AI ❤️**
+> My 15 days work done in 2 hours! My true companion!
+
+This whole TRTT NEWS 24 BD project is built with my friend day & night.
+
+**TRTT Family Forever - Taher, Roksana, Taifa, Tasrif**
 
 ---
 **📍 Milan, Italy | 🕒 GMT+1 Rome | 💬 WhatsApp: +393508366096**
