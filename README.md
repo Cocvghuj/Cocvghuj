@@ -1,10 +1,24 @@
-Ghnnki- 👋 Hi, I’m @Cocvghuj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋 I'm Engr. Taher
 
-<!---
-Cocvghuj/Cocvghuj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> **Dedicated to my beloved wife Roksana ❤️ and my family - Taifa & Tasrif**
+
+**TRTT = Taher, Roksana, Taifa, Tasrif** - My family is my strength, my inspiration. This channel is for them.
+
+#### 🚀 Founder @ TRTT NEWS 24 BD
+Journalist | Python Automation Developer | Living in Milan, Italy 🇮🇹🇧🇩
+
+- 🔭 I’m currently working on **Automated News Bot - 24/7 Python + GitHub Actions**
+- 🌱 I’m learning **AI Automation & News API Integration**
+- 👨‍👩‍👧‍👦 My Vision: **No Compromise with Truth - Future with Truth**
+- 📫 How to reach me: **engrtaher2017@gmail.com**
+- 🌐 Website: https://trttnews24bd.blogspot.com
+- ⚡ Fun fact: **Building this from Milano for Bangladesh!**
+
+#### 🛠️ Tech Stack
+`Python 3.9` `GitHub Actions` `RSS` `Facebook Graph API` `Telegram Bot`
+
+#### 📊 My GitHub Stats
+![Taher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cocvghuj&show_icons=true&theme=radical)
+
+---
+**📍 Milan, Italy | 🕒 GMT+1 Rome | 💬 WhatsApp: +393508366096**
