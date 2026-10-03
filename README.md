@@ -1,4 +1,4 @@
-<img width="2048" height="1152" alt="Messenger_creation_892262013841254" src="https://github.com/user-attachments/assets/2b48525d-0955-4246-a8b7-5bbf027f0a17" />
+
 <img width="2048" height="1152" alt="banner" src="https://github.com/user-attachments/assets/1d16868f-d926-4486-95cf-8089cab16f68" />
 
 ### Hi there 👋 I'm Engr. Taher
