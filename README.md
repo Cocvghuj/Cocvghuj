@@ -31,11 +31,9 @@
 
 [![Built with Meta AI](https://img.shields.io/badge/Built%20with-META%20AI-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com)
 
-<br/>
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taher.engr.milan@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
- [://whatsapp.com/channel/0029Vb8co9VDeONEz0B5e51M)
+
+
 [![Website](https://img.shields.io/badge/WEBSITE-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://trttnews24bd.blogspot.com)
 
 </div>
