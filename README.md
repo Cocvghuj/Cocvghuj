@@ -40,12 +40,8 @@
 
 ---
 
-## 🚀 TRTT NEWS 24 BD | Automated News Platform
-
-**TRTT NEWS 24 BD** (`trttnews24bd.blogspot.com`) হলো একটি সম্পূর্ণ স্বয়ংক্রিয় (Fully Automated) আধুনিক নিউজ বট যা Python এবং GitHub Actions এর মাধ্যমে পরিচালিত হয়।
 
 ### ✨ Key Features
-*   🤖 **Automated News Bot**
 *   💎 **Modern UI - Yahoo & Prothom Alo Style**
 *   📂 **Optimized Categories**
 *   🔍 **SEO & Google Publisher Ready**
