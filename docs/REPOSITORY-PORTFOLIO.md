@@ -83,6 +83,70 @@ The following is an inventory, not a claim that every repository is authored or 
 - [plannotator](https://github.com/Trttvoyage/plannotator) — fork of [backnotprop/plannotator](https://github.com/backnotprop/plannotator).
 - [stitch-skills](https://github.com/Trttvoyage/stitch-skills) — fork of [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills).
 
+## Verified Personal Fork Map
+
+GitHub repository metadata was checked for all 49 personal-account repositories. **40 are forks** with the upstream parents listed below; **9 are non-forks**, including one private repository. Fork README files and source code are not rewritten as TRTT-owned projects.
+
+| Personal repository | Verified upstream |
+|---|---|
+| [AFFiNE](https://github.com/Cocvghuj/AFFiNE) | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) |
+| [agent-browser](https://github.com/Cocvghuj/agent-browser) | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) |
+| [AntennaPod](https://github.com/Cocvghuj/AntennaPod) | [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) |
+| [app-store-compliance](https://github.com/Cocvghuj/app-store-compliance) | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) |
+| [ARTEX](https://github.com/Cocvghuj/ARTEX) | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) |
+| [autoclip](https://github.com/Cocvghuj/autoclip) | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) |
+| [Claude-BugHunter](https://github.com/Cocvghuj/Claude-BugHunter) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
+| [claude-mem](https://github.com/Cocvghuj/claude-mem) | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) |
+| [CLI-Anything](https://github.com/Cocvghuj/CLI-Anything) | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) |
+| [cluster-api](https://github.com/Cocvghuj/cluster-api) | [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) |
+| [DeepTutor](https://github.com/Cocvghuj/DeepTutor) | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) |
+| [diagram-design](https://github.com/Cocvghuj/diagram-design) | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) |
+| [DietPi](https://github.com/Cocvghuj/DietPi) | [MichaIng/DietPi](https://github.com/MichaIng/DietPi) |
+| [dsh-our-free-model](https://github.com/Cocvghuj/dsh-our-free-model) | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) |
+| [firecrawl](https://github.com/Cocvghuj/firecrawl) | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) |
+| [framework](https://github.com/Cocvghuj/framework) | [laravel/framework](https://github.com/laravel/framework) |
+| [freeradius-server](https://github.com/Cocvghuj/freeradius-server) | [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server) |
+| [gatherpress](https://github.com/Cocvghuj/gatherpress) | [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress) |
+| [Ghost-Downloader-3](https://github.com/Cocvghuj/Ghost-Downloader-3) | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) |
+| [hallmark](https://github.com/Cocvghuj/hallmark) | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) |
+| [impeccable](https://github.com/Cocvghuj/impeccable) | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) |
+| [instagram-agent-skill](https://github.com/Cocvghuj/instagram-agent-skill) | [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) |
+| [kubevirt](https://github.com/Cocvghuj/kubevirt) | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) |
+| [last30days-skill](https://github.com/Cocvghuj/last30days-skill) | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) |
+| [magpie](https://github.com/Cocvghuj/magpie) | [yetone/magpie](https://github.com/yetone/magpie) |
+| [minimind](https://github.com/Cocvghuj/minimind) | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) |
+| [nginx](https://github.com/Cocvghuj/nginx) | [nginx/nginx](https://github.com/nginx/nginx) |
+| [OpenMausBot](https://github.com/Cocvghuj/OpenMausBot) | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) |
+| [opensre](https://github.com/Cocvghuj/opensre) | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) |
+| [openvino](https://github.com/Cocvghuj/openvino) | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) |
+| [plannotator](https://github.com/Cocvghuj/plannotator) | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) |
+| [plugins](https://github.com/Cocvghuj/plugins) | [cursor/plugins](https://github.com/cursor/plugins) |
+| [posthog-js](https://github.com/Cocvghuj/posthog-js) | [PostHog/posthog-js](https://github.com/PostHog/posthog-js) |
+| [security-audit-skill](https://github.com/Cocvghuj/security-audit-skill) | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) |
+| [sherlock](https://github.com/Cocvghuj/sherlock) | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) |
+| [skills](https://github.com/Cocvghuj/skills) | [anthropics/skills](https://github.com/anthropics/skills) |
+| [stitch-skills](https://github.com/Cocvghuj/stitch-skills) | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) |
+| [superpowers](https://github.com/Cocvghuj/superpowers) | [obra/superpowers](https://github.com/obra/superpowers) |
+| [t3code](https://github.com/Cocvghuj/t3code) | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) |
+| [undici](https://github.com/Cocvghuj/undici) | [nodejs/undici](https://github.com/nodejs/undici) |
+
+## Non-Fork Personal Repositories
+
+The 9 non-fork repositories returned by GitHub metadata are: `Cocvghuj`, `Cocvghuj-trtt-news-bot`, `Cocvghuj-trtt-news-bot-fix`, `Diamond-King-trttmagic.html`, `trtt-diamond-king-private-vault` (private), `trtt-muse-gift`, `trtt-rise-from-ashes-studio`, `trttvoyage--muse-diary`, and `trttvoyage-diamond-king-chatgpt-6`.
+
+## Organization Fork Map
+
+The six forked repositories in the Trttvoyage organization preserve these upstream projects:
+
+- [TRTT-Voyage-ARTEX](https://github.com/Trttvoyage/TRTT-Voyage-ARTEX) → [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
+- [superpowers](https://github.com/Trttvoyage/superpowers) → [obra/superpowers](https://github.com/obra/superpowers)
+- [Claude-BugHunter](https://github.com/Trttvoyage/Claude-BugHunter) → [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+- [DeepTutor](https://github.com/Trttvoyage/DeepTutor) → [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+- [plannotator](https://github.com/Trttvoyage/plannotator) → [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+- [stitch-skills](https://github.com/Trttvoyage/stitch-skills) → [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+
+[Trttvoyage/trttvoyage-diamond-king-chatgpt-6](https://github.com/Trttvoyage/trttvoyage-diamond-king-chatgpt-6) is a separate non-fork organization repository. It is not currently verified as a code mirror of the personal command-center repository.
+
 ## Mirror, Backup & Ownership Rules
 
 - Personal and organization accounts are separate GitHub owners with separate permissions; they cannot become one account through README changes.
@@ -94,7 +158,7 @@ The following is an inventory, not a claim that every repository is authored or 
 
 ## Audit Status
 
-- Repository counts: 49 personal-account repositories and 7 organization repositories were returned by the connected GitHub inventory on 27 November 2026.
+- Repository counts: 49 personal-account repositories and 7 organization repositories were returned by the connected GitHub inventory on 27 November 2026. Metadata confirms 40 personal forks and 9 non-fork repositories (one private).
 - Public README contents have been inspected for the TRTT-owned project set and a sample of organization forks. A complete per-repository README, license, upstream, workflow, deployment, and link audit remains pending.
-- Five personal fork relationships were previously verified: Claude-BugHunter, superpowers, DeepTutor, plannotator, and stitch-skills. The ARTEX organization fork is verified against BaaRai/ARTEX; the personal ARTEX repository relationship is not yet verified.
+- Fork-parent metadata is verified for all 40 personal forks and all 6 organization forks. Repository content, branch freshness, Actions workflows, and deployed links still require separate per-repository checks.
 - No claim is made that all repositories are byte-identical or that all deployment links are live.
