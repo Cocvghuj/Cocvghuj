@@ -147,6 +147,51 @@ The six forked repositories in the Trttvoyage organization preserve these upstre
 
 [Trttvoyage/trttvoyage-diamond-king-chatgpt-6](https://github.com/Trttvoyage/trttvoyage-diamond-king-chatgpt-6) is a separate non-fork organization repository. It is not currently verified as a code mirror of the personal command-center repository.
 
+## Deployment & Infrastructure Map — 27 November 2026
+
+### Vercel projects verified
+
+The connected Vercel team is **TRTT** (`trtt6`), on the **Hobby** plan. The following production deployments were returned as `READY`:
+
+| Project | Connected GitHub source | Production status | Deployed commit |
+|---|---|---|---|
+| `cocvghuj-trtt-news-bot` | [Cocvghuj-trtt-news-bot](https://github.com/Cocvghuj/Cocvghuj-trtt-news-bot) | READY — main | `8d6eb182` |
+| `trtt-muse-gift` | [trtt-muse-gift](https://github.com/Cocvghuj/trtt-muse-gift) | READY — main | `0c8fb03d` |
+| `trttvoyage-muse-diary` | [trttvoyage--muse-diary](https://github.com/Cocvghuj/trttvoyage--muse-diary) | READY — main | `5906e012` |
+
+The main website/app's current Vercel production deployment is still on the previous `main` commit. No preview deployment was found for the proposed website rebrand PR #140 or Blogger theme PR #141 at the time of inspection. GitHub Actions static/asset validation passed for both PR heads; that is not equivalent to a Vercel deployment or browser QA.
+
+### Website, Blogger and infrastructure boundaries
+
+- Main website/app identity and English legal-page sources are proposed in [PR #140](https://github.com/Cocvghuj/Cocvghuj-trtt-news-bot/pull/140). The PR retains the old `pages/trttnews24bd/` source directory as a Blogger integration path; it is not intended as the public brand. The Telegram channel's current username also still contains `trttnews24bd`; changing a Telegram handle requires a separate channel/account action.
+- The Diamond Horizon Blogger XML candidate is in [PR #141](https://github.com/Cocvghuj/Cocvghuj-trtt-news-bot/pull/141). It has not been installed on the live Blogger blog. The live About/Contact/Privacy/Disclaimer pages also require Owner-side Blogger installation/verification.
+- Travelpayouts runtime variable is identified in source as `TRAVELPAYOUTS_TOKEN`. The inspected 24/7 GitHub workflow did not reference that variable, so adding a GitHub Actions secret alone is not proven to configure the Vercel runtime. The actual runtime injection path remains NOT VERIFIED.
+- Cloudflare account, DNS records, Pages/Workers, and security configuration were not inspected in this pass. Status: NOT TESTED. No DNS, nameserver, proxy, or security setting was changed.
+- The current Vercel Hobby project names and links remain as they are; no new Vercel project, production deployment, or domain change was created.
+
+## Current Owner Review Queue
+
+| Repository | Pull request | Purpose / review note |
+|---|---|---|
+| Personal profile `Cocvghuj` | [#2](https://github.com/Cocvghuj/Cocvghuj/pull/2) | English profile and portfolio directory |
+| Main website/app | [#140](https://github.com/Cocvghuj/Cocvghuj-trtt-news-bot/pull/140) | TRTT Voyage identity, legal pages, menu, tools, Vercel build |
+| Blogger theme | [#141](https://github.com/Cocvghuj/Cocvghuj-trtt-news-bot/pull/141) | Diamond Horizon theme candidate; install only after backup/preview |
+| Diamond King command center | [#33](https://github.com/Cocvghuj/trttvoyage-diamond-king-chatgpt-6/pull/33), [#34](https://github.com/Cocvghuj/trttvoyage-diamond-king-chatgpt-6/pull/34) | README identity and repository catalogue are separate changes |
+| Legacy fix placeholder | [#2](https://github.com/Cocvghuj/Cocvghuj-trtt-news-bot-fix/pull/2) | English status; repository purpose remains NOT VERIFIED |
+| Muse Gift | [#4](https://github.com/Cocvghuj/trtt-muse-gift/pull/4) | English README; older overlapping alternative PR #3 also remains open |
+| Muse Diary | [#2](https://github.com/Cocvghuj/trttvoyage--muse-diary/pull/2) | English README; older overlapping alternative PR #1 also remains open |
+| Rise From Ashes Studio | [#3](https://github.com/Cocvghuj/trtt-rise-from-ashes-studio/pull/3) | English public identity and disclaimer |
+| Legacy Diamond King HTML archive | [#2](https://github.com/Cocvghuj/Diamond-King-trttmagic.html/pull/2) | English archive README; older overlapping PR #1 also remains open |
+
+All listed PRs were open and mergeable at the latest metadata check. The Muse Gift, Muse Diary, legacy HTML archive, and fix-placeholder repositories each have older overlapping README PRs; review one intended version and close superseded alternatives only after comparing their unique files. No PR has been merged by this work.
+
+### GitLab backup references
+
+- App identity backup branch: `backup/github-trtt-voyage-identity-readme-20261127`.
+- Blogger theme backup branch: `backup/github-trtt-voyage-theme-20261127`.
+- Command-center memory/HTML backup branch: `backup/github-agents-guide-mainline-refresh-20261127`.
+- The latest memory log and command-center HTML were byte-compared with GitHub on the backup branch. Full Git history parity and all-repository mirror coverage remain NOT TESTED.
+
 ## Mirror, Backup & Ownership Rules
 
 - Personal and organization accounts are separate GitHub owners with separate permissions; they cannot become one account through README changes.
@@ -159,6 +204,6 @@ The six forked repositories in the Trttvoyage organization preserve these upstre
 ## Audit Status
 
 - Repository counts: 49 personal-account repositories and 7 organization repositories were returned by the connected GitHub inventory on 27 November 2026. Metadata confirms 40 personal forks and 9 non-fork repositories (one private).
-- Public README contents have been inspected for the TRTT-owned project set and a sample of organization forks. A complete per-repository README, license, upstream, workflow, deployment, and link audit remains pending.
+- Public README contents have been inspected for the TRTT-owned project set and a sample of organization forks. The English README / public identity review has been completed or proposed for all 9 non-fork personal repositories. The 40 personal forks and 6 organization forks retain upstream READMEs. Full per-repository license, workflow, runtime, deployment, and link testing remains pending.
 - Fork-parent metadata is verified for all 40 personal forks and all 6 organization forks. Repository content, branch freshness, Actions workflows, and deployed links still require separate per-repository checks.
 - No claim is made that all repositories are byte-identical or that all deployment links are live.
