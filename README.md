@@ -6,11 +6,13 @@
 **TRTT Voyage — From Vision to Global Brand!**  
 **Explore Beyond. Discover Everything.**
 
-[![Official Website](https://img.shields.io/badge/Official%20Website-trttvoyage.com-E98BAF?style=for-the-badge)](https://trttvoyage.com)
+[![Official Website](https://img.shields.io/badge/Official%20Website-trttvoyage.com-E98BAF?style=for-the-badge)](https://www.trttvoyage.com)
 [![Personal GitHub](https://img.shields.io/badge/GitHub-Cocvghuj-11152D?style=for-the-badge&logo=github)](https://github.com/Cocvghuj)
 [![TRTT Voyage Organization](https://img.shields.io/badge/Organization-Trttvoyage-B77991?style=for-the-badge&logo=github)](https://github.com/Trttvoyage)
 
 **ONE TEAM. ONE VISION. ONE JOURNEY.**
+
+*I build for my family.*
 
 </div>
 
@@ -18,69 +20,62 @@
 
 ## About
 
-I am **Engr. Abu Taher**, founder of **TRTT Voyage** and an independent builder based in Italy. I build practical digital projects for a global audience, with a focus on travel information, verified news, AI-assisted workflows, free web tools, software experiments, and transparent development.
+I am **Engr. Abu Taher**, founder of **TRTT Voyage** and an independent builder based in Italy. I work on practical digital projects for a global audience, including travel information, verified publishing workflows, AI-assisted development, mobile-friendly web tools, and carefully scoped software experiments.
 
-**Working principle:** Truth before claims. Security before automation. Quality before speed.
+**Working principles:** Truth before claims. Security before automation. Quality before speed.
 
-## TRTT Voyage — Official Links
+## Official TRTT Voyage Links
 
-| Destination | Link |
+| Destination | Official link |
 |---|---|
-| Official website | [trttvoyage.com](https://trttvoyage.com) |
+| Website | [www.trttvoyage.com](https://www.trttvoyage.com) |
 | Personal GitHub | [github.com/Cocvghuj](https://github.com/Cocvghuj) |
-| TRTT Voyage organization | [github.com/Trttvoyage](https://github.com/Trttvoyage) |
+| TRTT Voyage GitHub organization | [github.com/Trttvoyage](https://github.com/Trttvoyage) |
 | WhatsApp Channel | [Open channel](https://whatsapp.com/channel/0029Vb8co9VDeONEz0B5e51M) |
 | Telegram Channel | [Open channel](https://t.me/trttnews24bd) |
-| Facebook | [Official public profile](https://www.facebook.com/profile.php?id=61595319351601) |
+| Facebook | [Public profile](https://www.facebook.com/profile.php?id=61595319351601) |
 | CodePen | [Abu Taher on CodePen](https://codepen.io/Abu-Taher-the-styleful) |
 | Support | [Buy Me a Coffee](https://buymeacoffee.com/engrtaher20) |
 
-The Telegram channel currently retains its existing public handle. Account names and descriptions on third-party platforms require a separate account-owner update; repository changes do not change those accounts.
+These are the public URLs supplied by the account owner or confirmed as repository destinations. Third-party account names, descriptions, and availability can change independently of this README.
 
-## What TRTT Voyage Builds
+## What I Build
 
 - **News & publishing:** English editorial workflows, verified information, and controlled Blogger draft preparation.
-- **Travel:** Destination guides, travel resources, and partner-link transparency.
+- **Travel:** Destination information, practical travel resources, and transparent partner-link disclosures.
 - **AI & software:** AI-assisted development, documented experiments, and practical software projects.
-- **Free tools:** Mobile-friendly web utilities with clear feature and privacy notes.
-- **Website infrastructure:** GitHub-first source management, GitLab backup branches, and Vercel-hosted web assets where configured.
+- **Web tools:** Mobile-friendly utilities with clear functionality and privacy notes.
+- **Open-source learning:** Exploring and contributing to software while respecting original authors, licenses, and upstream project identity.
 
-## Project Directory
+## TRTT Project Directory
 
-| Project | Purpose / current location |
+| Project | Purpose |
 |---|---|
-| [TRTT Voyage website and app source](https://github.com/Cocvghuj/Cocvghuj-trtt-news-bot) | Main repository for the website, publishing tools, public web assets, and app workflows. |
+| [TRTT Voyage website and app](https://github.com/Cocvghuj/Cocvghuj-trtt-news-bot) | Main website/app source, public web assets, publishing tools, and workflows. |
 | [Diamond King command center](https://github.com/Cocvghuj/trttvoyage-diamond-king-chatgpt-6) | Project memory, operating guides, decision history, and command-center documentation. |
-| [TRTT Rise From Ashes Studio](https://github.com/Cocvghuj/trtt-rise-from-ashes-studio) | Mobile-first writing studio and Blogger draft workflow. |
-| [TRTT Muse Gift](https://github.com/Cocvghuj/trtt-muse-gift) | Separate creative AI-learning project; not part of the main website homepage. |
-| [TRTT Muse Diary](https://github.com/Cocvghuj/trttvoyage--muse-diary) | Separate personal/creative project. |
-| [Diamond King HTML archive](https://github.com/Cocvghuj/Diamond-King-trttmagic.html) | Separate legacy command-center archive. |
-| [Full repository inventory](./docs/REPOSITORY-PORTFOLIO.md) | Public personal-account and organization repository directory, with ownership and fork boundaries. |
+| [TRTT Rise From Ashes Studio](https://github.com/Cocvghuj/trtt-rise-from-ashes-studio) | Mobile-first writing studio and controlled Blogger-draft workflow. |
+| [TRTT Muse Gift](https://github.com/Cocvghuj/trtt-muse-gift) | Separate creative AI-learning project. |
+| [TRTT Muse Diary](https://github.com/Cocvghuj/trttvoyage--muse-diary) | Separate personal and creative project. |
+| [Diamond King HTML archive](https://github.com/Cocvghuj/Diamond-King-trttmagic.html) | Legacy command-center HTML archive. |
 
-**Private operational repositories are intentionally not listed here.** Credentials, private contact details, and account recovery information do not belong in public README files.
+## Development & Transparency
 
-## How I Work
+- **GitHub-first:** Work is proposed through feature branches and pull requests for review.
+- **GitLab backup:** Backup coverage is tracked separately; a repository is not called backed up until its contents and commit are verified.
+- **Free-tier aware:** I prefer free tools and tiers where practical. Provider limits, quotas, and terms can change; “free” does not mean unlimited or guaranteed zero operating cost.
+- **Human approval:** Merges, live publishing, production deployments, and account/security changes remain under owner control.
+- **Privacy:** Private contact details, credentials, and recovery information are not published in this profile.
 
-1. Inspect the current repository, branch, history, and project instructions before changing files.
-2. Preserve existing work and use feature branches for proposed changes.
-3. Validate links, source files, builds, and workflows where test tools are available.
-4. Open pull requests with evidence; the repository owner reviews and merges.
-5. Keep Blogger live publishing, production deployment, DNS/security changes, and external account changes behind explicit owner approval.
-6. Store credentials only in the appropriate secret manager. Never commit or print secret values.
-7. Prefer free tools and free tiers where practical. Free-tier quotas and provider terms can change; no unlimited or zero-cost guarantee is implied.
+## AI & Editorial Disclaimer
 
-## AI, Open-Source & Editorial Disclaimer
+TRTT Voyage may use AI tools to assist with research, drafting, coding, translation, and review. AI assistance does not replace human judgment or professional advice. Claims and publication status should be supported by evidence.
 
-AI tools may assist with research, drafting, translation, coding, and review. AI assistance does not replace human judgment, professional advice, or independent verification.
+Travel information, availability, prices, laws, and provider terms can change. Verify important details with the relevant official provider before making decisions.
 
-Travel details, prices, schedules, visa rules, availability, and third-party service terms can change. Verify important details with official providers before acting. Affiliate or partner links, when used, must be disclosed near the relevant content.
+Some content may contain affiliate links. Where applicable, the relationship will be disclosed near the relevant content. An affiliate link does not guarantee a lower price or a particular outcome.
 
-Some repositories in the personal account and TRTT Voyage organization are forks or copies of independent open-source projects. Their upstream authors, licenses, trademarks, contribution rules, and project identity must remain respected. A fork does not imply ownership, endorsement, or affiliation with its upstream maintainer.
-
-## Contact & Community
-
-For public updates and project collaboration, use the official public links above. Private email addresses, phone numbers, personal account credentials, and recovery details are intentionally excluded from this public profile.
+Some repositories in the TRTT Voyage organization are forks of independent open-source projects. Their upstream maintainers, licenses, trademarks, and contribution rules remain respected. A fork does not imply ownership, endorsement, or affiliation with its upstream project.
 
 ---
 
-<sub>TRTT Voyage · From Vision to Global Brand · ONE TEAM. ONE VISION. ONE JOURNEY.</sub>
+<sub>Profile maintained by Engr. Abu Taher · TRTT Voyage · [Official website](https://www.trttvoyage.com)</sub>
