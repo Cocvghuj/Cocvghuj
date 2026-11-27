@@ -169,6 +169,11 @@ The main website/app's current Vercel production deployment is still on the prev
 - Cloudflare account, DNS records, Pages/Workers, and security configuration were not inspected in this pass. Status: NOT TESTED. No DNS, nameserver, proxy, or security setting was changed.
 - The current Vercel Hobby project names and links remain as they are; no new Vercel project, production deployment, or domain change was created.
 
+
+### Public-link verification boundary
+
+The public social URLs in the profile README were taken from links previously supplied by the Owner. Direct web retrieval returned cache-miss errors for the website and social pages during this pass, so those destinations are **NOT VERIFIED** by an independent live HTTP check. Keep the supplied URLs unchanged; do not invent replacement handles or claim that every link has been tested.
+
 ## Current Owner Review Queue
 
 | Repository | Pull request | Purpose / review note |
