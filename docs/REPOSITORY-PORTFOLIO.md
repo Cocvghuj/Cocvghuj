@@ -161,6 +161,12 @@ The connected Vercel team is **TRTT** (`trtt6`), on the **Hobby** plan. The foll
 
 The main website/app's current Vercel production deployment is still on the previous `main` commit. No preview deployment was found for the proposed website rebrand PR #140 or Blogger theme PR #141 at the time of inspection. GitHub Actions static/asset validation passed for both PR heads; that is not equivalent to a Vercel deployment or browser QA.
 
+### Current production route smoke test
+
+The current Vercel production deployment (commit `8d6eb182`) returned HTTP 200 for `/`, `/about`, `/contact`, `/privacy`, `/disclaimer`, `/blog`, `/super-app`, and `/tools/flight-search`. The current production `/terms` route returned HTTP 404. PR #140 adds a Terms page source, but no preview deployment was available to verify the proposed route. The live routes still serve the pre-PR content and are not proof that the rebrand has been deployed.
+
+A read-only Vercel runtime check for the main app found no runtime error clusters in the selected 24-hour range and no error/fatal log entries in the selected 50-minute range. This is a limited time-window check, not a guarantee of zero bugs.
+
 ### Website, Blogger and infrastructure boundaries
 
 - Main website/app identity and English legal-page sources are proposed in [PR #140](https://github.com/Cocvghuj/Cocvghuj-trtt-news-bot/pull/140). The PR retains the old `pages/trttnews24bd/` source directory as a Blogger integration path; it is not intended as the public brand. The Telegram channel's current username also still contains `trttnews24bd`; changing a Telegram handle requires a separate channel/account action.
